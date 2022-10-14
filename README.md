@@ -7,7 +7,9 @@ This project conduct a complete analysis of Jumia laptop products. Jumia is a le
 * REGEX
 * Seaborn
 
-<u>Project Methodology</u>
+Project Methodology
+======
+
 The project procedures can be summarized as follows:
 * Web Scraping
 * Data Import
